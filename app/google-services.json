@@ -1,0 +1,76 @@
+{
+  "project_info": {
+    "project_number": "580230737812",
+    "project_id": "labverif",
+    "storage_bucket": "labverif.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:580230737812:android:1ea0286148e5ef1baea981",
+        "android_client_info": {
+          "package_name": "com.example.bjackpharmacy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "580230737812-bdp8fj4ammaqkk1mks7n58asdrukqn20.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALuQrgdmAVIROEwi2kgk1TQbZsLKyFvvE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "580230737812-bdp8fj4ammaqkk1mks7n58asdrukqn20.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:580230737812:android:86845446f8abf7f6aea981",
+        "android_client_info": {
+          "package_name": "com.example.project_bjackpharm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "580230737812-9pkhahjng3m2t1t8ao2r120v7am5po4v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.project_bjackpharm",
+            "certificate_hash": "c96960022a0a2fbd2e5e08b9505b377f4247cc71"
+          }
+        },
+        {
+          "client_id": "580230737812-bdp8fj4ammaqkk1mks7n58asdrukqn20.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALuQrgdmAVIROEwi2kgk1TQbZsLKyFvvE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "580230737812-bdp8fj4ammaqkk1mks7n58asdrukqn20.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
